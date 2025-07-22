@@ -7,7 +7,7 @@ In Fireman Vs Bugs, our fighter’s greatest shame has been revealed: he’s a b
 
 Press Down to kill the bugs, and Arrow keys to maneuver.
 
-The game can be found on itch.io: https://github.com/TchQueen/Firefighter-Vs-Bugs
+The game can be found on itch.io: https://maurmischief.itch.io/firefighters-vs-bugs
 
 Made with the DragonRuby Game Toolkit: https://dragonruby.itch.io/dragonruby-gtk
 
