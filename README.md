@@ -1,5 +1,5 @@
 # Firefighter-Vs-Bugs
-Firefighters Vs Bugs was made for the Warm & Fuzzy & Fun & Stupid (KIFASS 3) Game Jam: https://itch.io/jam/kifass-3
+Firefighter Vs Bugs was made for the Warm & Fuzzy & Fun & Stupid (KIFASS 3) Game Jam: https://itch.io/jam/kifass-3
 
 It was heavily inspired by the old Nokia game Panda Vs Bugs.
 
