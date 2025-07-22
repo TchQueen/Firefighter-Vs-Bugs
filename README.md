@@ -5,7 +5,9 @@ It was heavily inspired by the old Nokia game Panda Vs Bugs.
 
 In Fireman Vs Bugs, our fighter’s greatest shame has been revealed: he’s a big baby who’s terrified of bugs. How long can you keep your dignity? That is... after all the farting.
 
-Press Down to kill the bugs, and Arrow keys to maneuver. 
+Press Down to kill the bugs, and Arrow keys to maneuver.
+
+The game can be found on itch.io: https://github.com/TchQueen/Firefighter-Vs-Bugs
 
 Made with the DragonRuby Game Toolkit: https://dragonruby.itch.io/dragonruby-gtk
 
